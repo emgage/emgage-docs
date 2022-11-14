@@ -1,0 +1,33 @@
+{
+  "build": {
+    "sitemap":{
+      "baseUrl": "https://docs.emgage.com",
+      "priority": 0.1,
+      "changefreq": "monthly",
+  },
+    "content": [
+      {
+        "files": [ "articles/**/*.md", "*.md", "toc.yml" ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [ "articles/images/**"]
+      }
+    ],
+    "overwrite": "specs/*.md",
+    "globalMetadata": {
+      "_appTitle": "Emgage",
+      "_enableSearch": true,
+      "_appFooter": "© Copyright Emgage Inc.",
+      "_appLogoPath": "./articles/images/logo.png",
+      "_gitContribute": {
+        "repo":"https://github.com/emgage/emgage-docs",
+        "branch":"master"
+      }
+
+    },
+    "markdownEngineName": "markdig",
+    "dest": "_site"
+  }
+}
