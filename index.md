@@ -1,3 +1,3 @@
-# Emgage documentation
+# Emgage Product documentation
 ## Description
-This is a sample docfx documentation project. It contains .NET source code and markdown files.
+Write features of product with detail documentation.

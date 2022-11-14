@@ -1,2 +1,3 @@
-Getting Started with emgage doc
+Getting Started
 ---------------
+Start the baseline product introduction
