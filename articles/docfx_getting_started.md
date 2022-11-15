@@ -1,3 +1,3 @@
 Getting Started
 ---------------
-Start the baseline product introduction
+Start the baseline introduction on Emgage products.
