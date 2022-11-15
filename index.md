@@ -1,3 +1,3 @@
 # Emgage documentation
-## Description
-Write features of product with detail documentation.
+### Introduction
+Write detail documentation on Emgage products & services.
