@@ -22,7 +22,7 @@
 <BR>
 
 
-✅  User must be logged in.
+✅  User must be logged in. <BR>
 ✅  User must have necessary permissions.
 
 
@@ -33,7 +33,7 @@
 <BR>
 
 
-## ✴️ Create a new draft app <a id="stepstofollow001"></a>
+### Create a new draft app <a id="stepstofollow001"></a>
 
 <BR>
 
@@ -175,7 +175,7 @@
 
 <BR>
 
-## ✴️ Discard a draft app <a id="stepstofollow005a"></a>
+## Discard a draft app <a id="stepstofollow005a"></a>
 <BR>
 
 <BR>

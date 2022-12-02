@@ -20,7 +20,7 @@
 
 1. From the Dashboard, navigate to;  ``Left Nav Bar``  and click the ``Select App`` button. You will see a screen as shown below.
 
-    ![](../resources/2.5New.png)
+    ![](resources/2.5New.png)
 
 <BR>
 
@@ -50,7 +50,7 @@
 
 1. New properties, resources or controls created in the child app are available to the child app only and are not reflected in any other app or its parent app.
 
-    ![](../resources/2.5New.png)
+    ![](resources/2.5New.png)
 
 1. Refer to the Hierarchy Levels in the figure above, the Inheritance of app resources for the **Project- Chip Design** are;
     - All the resources available in the app named **Customer - Intel**. 
