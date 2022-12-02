@@ -3,7 +3,7 @@
     "sitemap":{
       "baseUrl": "https://docs.emgage.com",
       "priority": 0.1,
-      "changefreq": "monthly",
+      "changefreq": "monthly"
   },
     "content": [
       {
@@ -12,7 +12,8 @@
     ],
     "resource": [
       {
-        "files": [ "articles/images/**"]
+        "files": [ "articles/images/**", "articles/resources/**"]
+        
       }
     ],
     "overwrite": "specs/*.md",

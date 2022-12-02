@@ -1,5 +1,4 @@
 ﻿- name: Home
   href: index.md
 - name: Articles
-  href: articles/
-  homepage: articles/docfx_getting_started.md
+  href: articles/articlesintro.md
