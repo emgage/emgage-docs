@@ -1,6 +1,7 @@
 # Create a New Child Application Using App Builder
 
 ## Introduction <a id="introduction"></a>
+---
 <BR>
 
 ⭐ This page explains in simple steps, how you can create a new child application in Emgage using the Using App Builder feature.
@@ -19,6 +20,7 @@
 
 
 ## Pre-Reqs <a id="prereqs"></a>
+---
 <BR>
 
 
@@ -30,6 +32,7 @@
 
 
 ## Step-by-Step Instructions <a id="stepstofollow"></a>
+---
 <BR>
 
 
@@ -77,7 +80,7 @@
 <BR>
 
 
-## ✴️ Create and Publish a new app <a id="stepstofollow002"></a>
+### Create and Publish a new app <a id="stepstofollow002"></a>
 <BR>
 
 
@@ -113,7 +116,7 @@
 
 <BR>
 
-## ✴️ Search an app <a id="stepstofollow003"></a>
+### Search an app <a id="stepstofollow003"></a>
 <BR>
 
 
@@ -137,7 +140,7 @@
 
 <BR>
 
-## ✴️ Publish a draft app <a id="stepstofollow004"></a>
+### Publish a draft app <a id="stepstofollow004"></a>
 <BR>
 
 
@@ -175,7 +178,7 @@
 
 <BR>
 
-## Discard a draft app <a id="stepstofollow005a"></a>
+### Discard a draft app <a id="stepstofollow005a"></a>
 <BR>
 
 <BR>
@@ -212,7 +215,7 @@
 <BR>
 
 
-## ✴️ Delete an app <a id="stepstofollow005"></a>
+### Delete an app <a id="stepstofollow005"></a>
 <BR>
 
 
@@ -240,5 +243,3 @@
 
 
 <BR>
-
- 
