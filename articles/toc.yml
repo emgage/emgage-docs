@@ -1,8 +1,18 @@
 - name: Introduction
   href: articlesintro.md
+
 - name: App Hierarchy
   href: apphierarchy.md
-- name: Create New Child App
+
+- name: New Child App
   href: createnewchildapp.md
+  items:
+    - name: Child-1
+      href: articlesintro.md
+    - name: Child-2
+      href: glossary.md
+
 - name: Glossary
   href: glossary.md
+
+

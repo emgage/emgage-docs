@@ -1,8 +1,10 @@
 # Introduction
 
 ## About Emgage
+---
 
-![](../resources/emgage-logo-large-transparent-2.png)
+
+![](articles/resources/emgage-logo-large-transparent-2.png)
 
 ⭐ Have a great app idea in mind and are worried about the software development technicalities? Numerous app ideas don't make it to the market stage and succumb to the software development challenges.
 
@@ -16,26 +18,20 @@
 
 <BR>
 
-📚 **You can find more about the product [HERE][]**  
-<BR>
-
----
----
-
-## Related Topics
+🌐 **You can find more about the product [HERE][]**  
 
 <BR>
 
-[🔖 Understanding App Hierarchy](articles/apphierarchy.md)<BR>
-[🔖 New App - Step By Step Guide](articles/createnewchildapp.md)<BR>
-[🔖 Glossary of Terms](articles/glossary.md) <BR>
+## Related Articles
+---
+
 <BR>
 
+##### [🔖 Emgage Documentation Articles Home](articles/articlesintro.md)<BR>
+##### [🔖 Emgage API Documentation Home](api/index.md)<BR>
+##### [🔖 Glossary of Terms](articles/glossary.md) <BR>
 
-
-
----
----
+<BR>
 
 
 [here]: https://emgage.com/product/

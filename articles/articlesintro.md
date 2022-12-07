@@ -2,7 +2,7 @@
 
 ## About Articles
 
-![](../resources/emgage-logo-large-transparent-2.png)
+![](resources/emgage-logo-large-transparent-2.png)
 
 ⭐ This is the baseline setup for Articles.
 
@@ -12,10 +12,7 @@
 📚 **You can find more about the product [HERE][]**  
 <BR>
 
----
----
-
-## Reated Topics
+## Reated Articles
 
 <BR>
 
@@ -23,11 +20,6 @@
 [🔖 New App - Step By Step Guide](createnewchildapp.md)<BR>
 [🔖 Glossary of Terms](glossary.md) <BR>
 <BR>
-
-
----
----
-
 
 [here]: https://emgage.com/product/
 
