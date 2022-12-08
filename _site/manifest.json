@@ -1,0 +1,631 @@
+{
+  "sitemap": {
+    "baseUrl": "https://docs.emgage.com/",
+    "changefreq": "monthly",
+    "priority": 0.1
+  },
+  "homepages": [],
+  "source_base_path": "D:/zHammadHassan/UpWork/001.Emgage/02-Contract02/EmgageDocFX",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html",
+          "hash": "/4qGEroixst7Ed902o30zw/ZjkdhMMje1ODdo0c3gXU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "wszsSMPYzapVndH8Qeyv7cB01DhHFSiHKSiE4OBzeh8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "53cDPdjyKTmYSaPMwcMYYJO/bYpeY21eGi/JWyVQBqE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/application-hierarchy.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/application-hierarchy.html",
+          "hash": "9ZWnAzj5U8lj7A6MpCorfINld7Y4STfG3RW3LzxGTR8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/articles-introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/articles-introduction.html",
+          "hash": "iwOBOETuAlmR0mCPzeknqhkCM8F8yqToPccCmHbgLI0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/create-application-introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/create-application-introduction.html",
+          "hash": "VAbut3kVgH+RgWkKcfSMC02wm4RJyQmzENUuT4EkTRU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/create-application-using-appmanager.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/create-application-using-appmanager.html",
+          "hash": "fw5i/j9folN3qofb6y7sM+rJcXCmpAPtTjGVBdRbyL0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/create-application-using-hyperconsole.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/create-application-using-hyperconsole.html",
+          "hash": "uGaXNw3v0lhnMM7sokXlT/7Mww5xW3tps4SE9xNg7EQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/glossary.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/glossary.html",
+          "hash": "PAXtPDv7i0b7W48dHNZl4p7WF/uGPHnPPi0FXRy81Vg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/images/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/images/logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/1.1login.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/1.1login.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/1.2login.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/1.2login.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/1.4login.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/1.4login.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/1.login.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/1.login.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/1.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.10-FindAndPublish.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.10-FindAndPublish.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.11-PublishDraftApp.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.11-PublishDraftApp.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.12-DeleteAnApp - Copy.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.12-DeleteAnApp - Copy.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.12-DeleteAnApp.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.12-DeleteAnApp.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.13PublishDraft.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.13PublishDraft.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.13PublishDraftClear.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.13PublishDraftClear.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.14DiscardDraft.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.14DiscardDraft.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.15DiscardDraftInside.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.15DiscardDraftInside.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.16DEleteAppClear.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.16DEleteAppClear.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.16DeleteAppSearch.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.16DeleteAppSearch.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.19DeleteInside.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.19DeleteInside.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.19PUblishInside.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.19PUblishInside.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.1Dashboard-Clear.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.1Dashboard-Clear.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.1Dashboard-Search.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.1Dashboard-Search.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.1New.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.1New.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.2New-Publish.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.2New-Publish.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.2New.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.2New.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.3New.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.3New.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.5New.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.5New.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.6New.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.6New.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.7New.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.7New.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.8New.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.8New.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.9-Launch.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.9-Launch.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.Dashboard.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.Dashboard.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/3.3Editsettings.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/3.3Editsettings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/3.Hyperconsole-New.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/3.Hyperconsole-New.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/4.Search-clear.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/4.Search-clear.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/4.Search.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/4.Search.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/Screenshot 2022-09-22 190428.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/Screenshot 2022-09-22 190428.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/Screenshot 2022-09-22 190721.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/Screenshot 2022-09-22 190721.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/emgage-logo-large-transparent-2.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/emgage-logo-large-transparent-2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/emgage-squarelogo-1469225763276.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/emgage-squarelogo-1469225763276.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "AJzhOjJmRJdjG9axE6amHak/9ZcLo9syn9kXUMYpMM8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "Yahic1gvH5Id1OGbSyUjxt6RtlcqksLitrodsiaWNOA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "vNoj18SCkAxmWuMVrvurDfDS+LocAZOZiirN4I0GYiw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 9,
+          "skipped_file_count": 7
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

@@ -1,16 +1,16 @@
 - name: Introduction
-  href: articlesintro.md
+  href: articles-introduction.md
 
-- name: App Hierarchy
-  href: apphierarchy.md
+- name: Application Hierarchy
+  href: application-hierarchy.md
 
-- name: New Child App
-  href: createnewchildapp.md
+- name: Create Application
+  href: create-application-introduction.md
   items:
-    - name: Child-1
-      href: articlesintro.md
-    - name: Child-2
-      href: glossary.md
+    - name: Using App Manager
+      href: create-application-using-appmanager.md
+    - name: Using Hyperconsole
+      href: create-application-using-hyperconsole.md
 
 - name: Glossary
   href: glossary.md
