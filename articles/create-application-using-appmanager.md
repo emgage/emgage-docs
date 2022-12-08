@@ -1,7 +1,8 @@
 # Create Application Using App Manager
+---
 
 ## Introduction <a id="introduction"></a>
----
+
 <BR>
 
 ⭐ This page explains in simple steps, how you can create a new child application in Emgage using the Using App Builder feature.
@@ -20,9 +21,6 @@
 
 
 ## Pre-Reqs <a id="prereqs"></a>
----
-<BR>
-
 
 ✅  User must be logged in. <BR>
 ✅  User must have necessary permissions.
@@ -32,9 +30,6 @@
 
 
 ## Step-by-Step Instructions <a id="stepstofollow"></a>
----
-<BR>
-
 
 ### Create a new draft app <a id="stepstofollow001"></a>
 
