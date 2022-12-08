@@ -1,4 +1,5 @@
-# Understanding App Hierarchy and Interitence
+# Application Hierarchy and Interitence
+---
 
 ## Introduction <a id="introduction"></a>
 

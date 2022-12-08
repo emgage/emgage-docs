@@ -1,11 +1,9 @@
 # Create Application Using Hyperconsole
+---
 
 ## Introduction <a id="introduction"></a>
----
-<BR>
 
 ⭐ This page explains in simple steps, how you can create a new child application in Emgage using the Using App Builder feature.
-
 ⭐ After completing this page, you should be able to do the following tasks.
 
 ➡️ Create a new draft app. <BR>
