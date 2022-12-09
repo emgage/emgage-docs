@@ -2,7 +2,7 @@
 ---
 
 ## Introduction <a id="introduction"></a>
-This article explains in simple steps, how you can create a new application using the **App Manager**. After completing this article, you should be able to **Create an Application Using the App Manager** as well as perform **Search**, **Publish** and **Delete** Operations on the application.
+This article explains how you can create an application using the **App Manager**. After reading this article, you should be able to Create an Application Using the App Manager as well as perform **Search**, **Publish** and **Delete** operations on the application.
 
 ## Pre-Reqs <a id="prereqs"></a>
 
@@ -26,3 +26,5 @@ This article explains in simple steps, how you can create a new application usin
     ![](resources/1.2-new-advanced.png)
 
 - To save the newly created application as a draft, click the **`Save Draft`** button. The draft application will be available to the current user only. To directly Publish the new app, click the **`Publish`** button.
+
+- To close this window without maing any change, click the **`Close`** button

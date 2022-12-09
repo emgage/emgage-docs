@@ -8,7 +8,7 @@ This article explains how hierarchies are maintained in the **Emgage** platform 
 In the **Emgage** platform, every app is associated to a parent. Under every new app, further apps can be created and so on. This hierarchical structure can be extended to any level as per requirement.
 
 ## Application Hierarchy <a id="apphierarchy"></a>
-- From the Dashboard, navigate to;  ``Left Nav Bar``  and click the ``Select App`` button. You will see a screen as shown below.
+- From the Dashboard, navigate to;  **`Left Nav Bar`**  and click the **`Select App`** button. You will see a screen as shown below.
 
     ![](resources/2.5New.png)
 
@@ -21,7 +21,7 @@ In the **Emgage** platform, every app is associated to a parent. Under every new
     - Note that the parent application named **Cybersecurity Provider** lies under the source app named **Global**.
 - No app can be created above **Global**. <BR>
 
-## Inheritence in Hierarchy <a id="InheritenceinHierarchy"></a>
+## Resource Inheritance in Application Hierarchy <a id="InheritenceinHierarchy"></a>
 - In simple terms, Inheritance means reception of resources or properties from parent to the child. 
 - When a child app is created in **Emgage**, all properties, resources or controls of the parent are automatically available in the child app.
 - New properties, resources or controls created in the child app are available to the child app only and are not reflected in any other app or its parent app.

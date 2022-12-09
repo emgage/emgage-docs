@@ -62,7 +62,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/application-hierarchy.html",
-          "hash": "K53DJbkTc6zcBvDxHRHCfhKNvxLrWNtU3oKuSRbxGUc="
+          "hash": "K/FM+j/yj2UT4e9nWn90YPSVvFEg/EocDDjeSTnUNuE="
         }
       },
       "is_incremental": false,
@@ -74,7 +74,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/articles-introduction.html",
-          "hash": "MwZ3vM/eBqZY2VPgBoM8U6GiL5FD34X/rP0NhcYMGFk="
+          "hash": "GuvNODjVuU4U/Hbt2s+L7PsQOvQPSNRKzstyPFN4bF4="
         }
       },
       "is_incremental": false,
@@ -86,7 +86,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/create-application-introduction.html",
-          "hash": "qaLM2lnK9+4flWAh0szgwyyvezOgIabHIfYFYnC/9sI="
+          "hash": "sQFFcW5cYoLRyNbK8iMT64Xdqyi5Y0RnrSo49A48ao0="
         }
       },
       "is_incremental": false,
@@ -98,22 +98,19 @@
       "output": {
         ".html": {
           "relative_path": "articles/create-application-using-appmanager.html",
-          "hash": "P1px8mraPSvJ/4oZSh2Gnvoyuwj8yhMYtGyBRVng0l4="
+          "hash": "ivno4oToC0sKCKjUQDJFU2LdnyD3OQdwBftZuyg5tPA="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/create-application-using-hyperconsole.md",
       "output": {
         ".html": {
           "relative_path": "articles/create-application-using-hyperconsole.html",
-          "hash": "vv5IwXMVjdlIPj/bS0KUhhiIsVZCHVnhSEGHYByUsrU="
+          "hash": "DzkelQENU7XmyS050RN2BUyHUgyJoUHGZz+1hBwlhQ8="
         }
       },
       "is_incremental": false,
@@ -176,6 +173,28 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2-nav-bar-hyperconsole.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2-nav-bar-hyperconsole.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/resources/2.1-new-hyperconsole.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/resources/2.1-new-hyperconsole.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "articles/toc.yml",
       "output": {
@@ -225,7 +244,7 @@
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 9,
-          "skipped_file_count": 8
+          "skipped_file_count": 7
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
