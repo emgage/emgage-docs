@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Create a New Child Application Using App Builder | Emgage </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Create a New Child Application Using App Builder | Emgage ">
+    <meta name="generator" content="docfx 2.59.4.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    <meta property="docfx:rel" content="../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src=".././articles/images/logo.png" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list">Search Results for <span></span></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination" data-first="First" data-prev="Previous" data-next="Next" data-last="Last"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="create-a-new-child-application-using-app-builder" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="1">Create a New Child Application Using App Builder</h1>
+
+<h2 id="introduction-" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="3">Introduction <a id="introduction"></a></h2>
+<hr sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="4">
+<br>
+<p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="7">⭐ This page explains in simple steps, how you can create a new child application in Emgage using the Using App Builder feature.</p>
+<p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="9">⭐ After completing this page, you should be able to do the following tasks.</p>
+<p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="11">➡️ Create a new draft app. <br>
+➡️ Create and Publish a new app. <br>
+➡️ Search an app. <br>
+➡️ Publish a draft app. <br>
+➡️ Discard a draft app. <br>
+➡️ Delete an app. <br></p>
+<br>
+<h2 id="pre-reqs-" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="22">Pre-Reqs <a id="prereqs"></a></h2>
+<hr sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="23">
+<br>
+<p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="27">✅  User must be logged in. <br>
+✅  User must have necessary permissions.</p>
+<br>
+<h2 id="step-by-step-instructions-" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="34">Step-by-Step Instructions <a id="stepstofollow"></a></h2>
+<hr sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="35">
+<br>
+<h3 id="create-a-new-draft-app-" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="39">Create a new draft app <a id="stepstofollow001"></a></h3>
+<br>
+<ol sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="43">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="43">From the Dashboard, navigate to;  <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="43">Left Nav Bar</code> and click the <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="43">Select App </code>button. You will see a screen as shown below.
+<img src="resources/2.1New.png" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="44" alt="">
+<br></li>
+</ol>
+<br>
+<ol start="2" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="49">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="49"><p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="49">Click the <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="49">Three Dots (...)</code>.</p>
+</li>
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="51"><p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="51">Select <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="51">Child App</code> option from the menu.</p>
+<ul sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="52">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="52">The system will initialize an application wizard that will create your application in the background.</li>
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="53">This may take a little while to process.</li>
+</ul>
+</li>
+</ol>
+<br>
+<ol start="4" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="57">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="57"><p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="57">Once complete, you will see a screen as shown below.</p>
+<p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="59"><img src="resources/2.2New.png" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="59" alt=""></p>
+</li>
+</ol>
+<br>
+<ol start="5" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="63">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="63">To save the newly created application as a draft, click the <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="63">Save Draft</code> button.
+<ul sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="64">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="64"><em sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="64">Note: The draft application is available to the current user only.</em></li>
+</ul>
+</li>
+</ol>
+<br>
+<ol start="6" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="68">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="68">To close this screen without saving, click the <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="68">Cancel</code> button.</li>
+</ol>
+<br>
+<ol start="7" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="72">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="72">That's it, you have successfully created your first draft app using <strong sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="72">Emgage</strong>.</li>
+</ol>
+<br>
+<p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="76"><br> <strong sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="76"><a href="#introduction" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="76">🔝</a></strong></p>
+<hr sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="78">
+<br>
+<h3 id="create-and-publish-a-new-app-" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="83">Create and Publish a new app <a id="stepstofollow002"></a></h3>
+<br>
+<ol sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="87">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="87"><p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="87">From the Dashboard, navigate to <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="87">Left Nav Bar</code>  and click the <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="87">Select App</code> button. You will see a screen as shown below.</p>
+<p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="90"><img src="resources/2.1New.png" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="90" alt=""></p>
+</li>
+</ol>
+<br>
+<br>
+<ol start="2" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="96">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="96"><p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="96">Click the <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="96">Three Dots (...)</code>.</p>
+</li>
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="98"><p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="98">Select <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="98">Child App</code> option from the menu.</p>
+<ul sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="99">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="99">The system will initialize an application wizard that will create your application in the background.</li>
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="100">This may take a little while to process.</li>
+</ul>
+</li>
+</ol>
+<br>
+<ol start="4" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="104">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="104"><p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="104">Once complete, you will see a screen as shown below.</p>
+<p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="106"><img src="resources/2.2New-Publish.png" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="106" alt=""></p>
+</li>
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="108"><p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="108">To directly Publish the new app, click the <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="108">Publish</code> button.</p>
+</li>
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="109"><p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="109">That's it, you have successfully created and Published your first app using <strong sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="109">Emgage</strong>.</p>
+</li>
+</ol>
+<br>
+<p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="113"><br> <strong sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="113"><a href="#introduction" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="113">🔝</a></strong></p>
+<hr sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="115">
+<br>
+<h3 id="search-an-app-" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="119">Search an app <a id="stepstofollow003"></a></h3>
+<br>
+<ol sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="124">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="124"><p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="124">From the Dashboard, navigate to <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="124">Left Nav Bar</code> and locate the <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="124">Find an App</code> search bar as shown in the figure below.</p>
+<p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="127"><img src="resources/2.1Dashboard-Search.png" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="127" alt=""></p>
+</li>
+</ol>
+<br>
+<ol start="2" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="131">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="131"><p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="131">Type in the name of the app that you need to search. The <strong sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="131">Emgage</strong> system will filter all apps that match your specific search criteria. Please refer to the figure shown below.</p>
+<p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="133"><img src="resources/4.Search.png" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="133" alt=""></p>
+</li>
+</ol>
+<br>
+<p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="137"><br> <strong sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="137"><a href="#introduction" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="137">🔝</a></strong></p>
+<hr sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="139">
+<br>
+<h3 id="publish-a-draft-app-" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="143">Publish a draft app <a id="stepstofollow004"></a></h3>
+<br>
+<ol sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="147">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="147"><p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="147">From the Dashboard, navigate to <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="147">Left Nav Bar</code> and locate the <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="147">Find an App</code> search bar as shown in the figure below.</p>
+<p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="150"><img src="resources/2.1Dashboard-Search.png" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="150" alt=""></p>
+</li>
+</ol>
+<br>
+<ol start="2" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="154">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="154"><p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="154">Type in the name of the app that you need to search. The <strong sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="154">Emgage</strong> system will filter all apps that match your specific search criteria. Please refer to the figure shown below.</p>
+<p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="156"><img src="resources/2.13PublishDraft.png" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="156" alt=""></p>
+</li>
+</ol>
+<br>
+<ol start="3" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="160">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="160">To Publish the app, click the <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="160">Publish Changes</code> button.
+<ul sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="161">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="161">This may take a little while to process.</li>
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="162">Once complete, you will see your app in the <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="162">Left Nav Bar</code></li>
+</ul>
+</li>
+</ol>
+<br>
+<ol start="4" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="169">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="169"><p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="169">Or alternatively, click the application to view the screen as shown below. Click the <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="169">Publish Changes</code> button to Publish the draft app.</p>
+<p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="171"><img src="resources/2.19PUblishInside.png" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="171" alt=""></p>
+</li>
+</ol>
+<br>
+<p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="175"><br> <strong sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="175"><a href="#introduction" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="175">🔝</a></strong></p>
+<hr sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="177">
+<br>
+<h3 id="discard-a-draft-app-" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="181">Discard a draft app <a id="stepstofollow005a"></a></h3>
+<br>
+<br>
+<ol sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="186">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="186"><p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="186">From the Dashboard, navigate to <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="186">Left Nav Bar</code> and locate the <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="186">Find an App</code> search bar as shown in the figure below.</p>
+<p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="189"><img src="resources/2.1Dashboard-Search.png" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="189" alt=""></p>
+</li>
+</ol>
+<br>
+<ol start="2" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="193">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="193"><p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="193">Type in the name of the app that you need to search. The <strong sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="193">Emgage</strong> system will filter all apps that match your specific search criteria. Please refer to the figure shown below.</p>
+<p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="195"><img src="resources/2.14DiscardDraft.png" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="195" alt=""></p>
+</li>
+</ol>
+<br>
+<ol start="3" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="199">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="199">To discard the newly created draft app, click the <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="199">Discard New</code> button.
+<ul sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="200">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="200">This may take a little while to process.</li>
+</ul>
+</li>
+</ol>
+<br>
+<ol start="4" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="204">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="204"><p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="204">Or alternatively, click the application to view the screen as shown below. Click the <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="204">Discard New</code> button to discard the draft app.</p>
+<p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="206"><img src="resources/2.15DiscardDraftInside.png" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="206" alt=""></p>
+</li>
+</ol>
+<br>
+<p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="211"><br><a href="#introduction" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="211">🔝</a></p>
+<hr sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="213">
+<br>
+<h3 id="delete-an-app-" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="218">Delete an app <a id="stepstofollow005"></a></h3>
+<br>
+<ol sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="222">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="222"><p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="222">From the Dashboard, navigate to <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="222">Left Nav Bar</code> and locate the <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="222">Find an App</code> search bar as shown in the figure below.</p>
+<p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="225"><img src="resources/2.1Dashboard-Search.png" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="225" alt=""></p>
+</li>
+</ol>
+<br>
+<ol start="2" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="229">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="229"><p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="229">Type in the name of the app that you need to search. The <strong sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="229">Emgage</strong> system will filter all apps that match your specific search criteria. Please refer to the figure shown below.</p>
+<p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="231"><img src="resources/2.16DeleteAppSearch.png" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="231" alt=""></p>
+</li>
+</ol>
+<br>
+<ol start="3" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="235">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="235">To Delete the Published app, click the <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="235">Delete</code> button.
+<ul sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="236">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="236">This may take a little while to process.</li>
+</ul>
+</li>
+</ol>
+<br>
+<ol start="4" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="240">
+<li sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="240"><p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="240">Or alternatively, click the application to view the screen as shown below. Click the <code sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="240">Delete</code> button to Delete the app.</p>
+<p sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="242"><img src="resources/2.19DeleteInside.png" sourcefile="articles/createnewchildapp.md" sourcestartlinenumber="242" alt=""></p>
+</li>
+</ol>
+<br>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/emgage/emgage-docs/blob/master/articles/createnewchildapp.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            © Copyright Emgage Inc.
+            
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>

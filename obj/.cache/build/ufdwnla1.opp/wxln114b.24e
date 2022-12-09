@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Create Application Using App Manager | Emgage </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Create Application Using App Manager | Emgage ">
+    <meta name="generator" content="docfx 2.59.4.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    <meta property="docfx:rel" content="../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src=".././articles/images/logo.png" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list">Search Results for <span></span></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination" data-first="First" data-prev="Previous" data-next="Next" data-last="Last"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="create-application-using-app-manager" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="1">Create Application Using App Manager</h1>
+
+<hr sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="2">
+<h2 id="introduction-" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="4">Introduction <a id="introduction"></a></h2>
+<br>
+<p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="8">⭐ This page explains in simple steps, how you can create a new child application in Emgage using the Using App Builder feature.</p>
+<p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="10">⭐ After completing this page, you should be able to do the following tasks.</p>
+<p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="12">➡️ Create a new draft app. <br>
+➡️ Create and Publish a new app. <br>
+➡️ Search an app. <br>
+➡️ Publish a draft app. <br>
+➡️ Discard a draft app. <br>
+➡️ Delete an app. <br></p>
+<br>
+<h2 id="pre-reqs-" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="23">Pre-Reqs <a id="prereqs"></a></h2>
+<hr sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="24">
+<br>
+<p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="28">✅  User must be logged in. <br>
+✅  User must have necessary permissions.</p>
+<br>
+<h2 id="step-by-step-instructions-" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="35">Step-by-Step Instructions <a id="stepstofollow"></a></h2>
+<hr sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="36">
+<br>
+<h3 id="create-a-new-draft-app-" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="40">Create a new draft app <a id="stepstofollow001"></a></h3>
+<br>
+<ol sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="44">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="44">From the Dashboard, navigate to;  <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="44">Left Nav Bar</code> and click the <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="44">Select App </code>button. You will see a screen as shown below.
+<img src="resources/2.1New.png" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="45" alt="">
+<br></li>
+</ol>
+<br>
+<ol start="2" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="50">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="50"><p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="50">Click the <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="50">Three Dots (...)</code>.</p>
+</li>
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="52"><p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="52">Select <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="52">Child App</code> option from the menu.</p>
+<ul sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="53">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="53">The system will initialize an application wizard that will create your application in the background.</li>
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="54">This may take a little while to process.</li>
+</ul>
+</li>
+</ol>
+<br>
+<ol start="4" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="58">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="58"><p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="58">Once complete, you will see a screen as shown below.</p>
+<p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="60"><img src="resources/2.2New.png" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="60" alt=""></p>
+</li>
+</ol>
+<br>
+<ol start="5" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="64">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="64">To save the newly created application as a draft, click the <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="64">Save Draft</code> button.
+<ul sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="65">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="65"><em sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="65">Note: The draft application is available to the current user only.</em></li>
+</ul>
+</li>
+</ol>
+<br>
+<ol start="6" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="69">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="69">To close this screen without saving, click the <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="69">Cancel</code> button.</li>
+</ol>
+<br>
+<ol start="7" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="73">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="73">That's it, you have successfully created your first draft app using <strong sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="73">Emgage</strong>.</li>
+</ol>
+<br>
+<p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="77"><br> <strong sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="77"><a href="#introduction" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="77">🔝</a></strong></p>
+<hr sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="79">
+<br>
+<h3 id="create-and-publish-a-new-app-" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="84">Create and Publish a new app <a id="stepstofollow002"></a></h3>
+<br>
+<ol sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="88">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="88"><p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="88">From the Dashboard, navigate to <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="88">Left Nav Bar</code>  and click the <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="88">Select App</code> button. You will see a screen as shown below.</p>
+<p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="91"><img src="resources/2.1New.png" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="91" alt=""></p>
+</li>
+</ol>
+<br>
+<br>
+<ol start="2" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="97">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="97"><p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="97">Click the <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="97">Three Dots (...)</code>.</p>
+</li>
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="99"><p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="99">Select <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="99">Child App</code> option from the menu.</p>
+<ul sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="100">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="100">The system will initialize an application wizard that will create your application in the background.</li>
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="101">This may take a little while to process.</li>
+</ul>
+</li>
+</ol>
+<br>
+<ol start="4" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="105">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="105"><p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="105">Once complete, you will see a screen as shown below.</p>
+<p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="107"><img src="resources/2.2New-Publish.png" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="107" alt=""></p>
+</li>
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="109"><p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="109">To directly Publish the new app, click the <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="109">Publish</code> button.</p>
+</li>
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="110"><p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="110">That's it, you have successfully created and Published your first app using <strong sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="110">Emgage</strong>.</p>
+</li>
+</ol>
+<br>
+<p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="114"><br> <strong sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="114"><a href="#introduction" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="114">🔝</a></strong></p>
+<hr sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="116">
+<br>
+<h3 id="search-an-app-" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="120">Search an app <a id="stepstofollow003"></a></h3>
+<br>
+<ol sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="125">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="125"><p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="125">From the Dashboard, navigate to <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="125">Left Nav Bar</code> and locate the <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="125">Find an App</code> search bar as shown in the figure below.</p>
+<p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="128"><img src="resources/2.1Dashboard-Search.png" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="128" alt=""></p>
+</li>
+</ol>
+<br>
+<ol start="2" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="132">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="132"><p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="132">Type in the name of the app that you need to search. The <strong sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="132">Emgage</strong> system will filter all apps that match your specific search criteria. Please refer to the figure shown below.</p>
+<p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="134"><img src="resources/4.Search.png" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="134" alt=""></p>
+</li>
+</ol>
+<br>
+<p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="138"><br> <strong sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="138"><a href="#introduction" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="138">🔝</a></strong></p>
+<hr sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="140">
+<br>
+<h3 id="publish-a-draft-app-" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="144">Publish a draft app <a id="stepstofollow004"></a></h3>
+<br>
+<ol sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="148">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="148"><p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="148">From the Dashboard, navigate to <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="148">Left Nav Bar</code> and locate the <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="148">Find an App</code> search bar as shown in the figure below.</p>
+<p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="151"><img src="resources/2.1Dashboard-Search.png" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="151" alt=""></p>
+</li>
+</ol>
+<br>
+<ol start="2" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="155">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="155"><p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="155">Type in the name of the app that you need to search. The <strong sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="155">Emgage</strong> system will filter all apps that match your specific search criteria. Please refer to the figure shown below.</p>
+<p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="157"><img src="resources/2.13PublishDraft.png" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="157" alt=""></p>
+</li>
+</ol>
+<br>
+<ol start="3" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="161">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="161">To Publish the app, click the <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="161">Publish Changes</code> button.
+<ul sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="162">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="162">This may take a little while to process.</li>
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="163">Once complete, you will see your app in the <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="163">Left Nav Bar</code></li>
+</ul>
+</li>
+</ol>
+<br>
+<ol start="4" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="170">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="170"><p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="170">Or alternatively, click the application to view the screen as shown below. Click the <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="170">Publish Changes</code> button to Publish the draft app.</p>
+<p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="172"><img src="resources/2.19PUblishInside.png" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="172" alt=""></p>
+</li>
+</ol>
+<br>
+<p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="176"><br> <strong sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="176"><a href="#introduction" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="176">🔝</a></strong></p>
+<hr sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="178">
+<br>
+<h3 id="discard-a-draft-app-" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="182">Discard a draft app <a id="stepstofollow005a"></a></h3>
+<br>
+<br>
+<ol sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="187">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="187"><p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="187">From the Dashboard, navigate to <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="187">Left Nav Bar</code> and locate the <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="187">Find an App</code> search bar as shown in the figure below.</p>
+<p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="190"><img src="resources/2.1Dashboard-Search.png" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="190" alt=""></p>
+</li>
+</ol>
+<br>
+<ol start="2" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="194">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="194"><p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="194">Type in the name of the app that you need to search. The <strong sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="194">Emgage</strong> system will filter all apps that match your specific search criteria. Please refer to the figure shown below.</p>
+<p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="196"><img src="resources/2.14DiscardDraft.png" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="196" alt=""></p>
+</li>
+</ol>
+<br>
+<ol start="3" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="200">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="200">To discard the newly created draft app, click the <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="200">Discard New</code> button.
+<ul sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="201">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="201">This may take a little while to process.</li>
+</ul>
+</li>
+</ol>
+<br>
+<ol start="4" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="205">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="205"><p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="205">Or alternatively, click the application to view the screen as shown below. Click the <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="205">Discard New</code> button to discard the draft app.</p>
+<p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="207"><img src="resources/2.15DiscardDraftInside.png" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="207" alt=""></p>
+</li>
+</ol>
+<br>
+<p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="212"><br><a href="#introduction" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="212">🔝</a></p>
+<hr sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="214">
+<br>
+<h3 id="delete-an-app-" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="219">Delete an app <a id="stepstofollow005"></a></h3>
+<br>
+<ol sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="223">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="223"><p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="223">From the Dashboard, navigate to <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="223">Left Nav Bar</code> and locate the <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="223">Find an App</code> search bar as shown in the figure below.</p>
+<p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="226"><img src="resources/2.1Dashboard-Search.png" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="226" alt=""></p>
+</li>
+</ol>
+<br>
+<ol start="2" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="230">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="230"><p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="230">Type in the name of the app that you need to search. The <strong sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="230">Emgage</strong> system will filter all apps that match your specific search criteria. Please refer to the figure shown below.</p>
+<p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="232"><img src="resources/2.16DeleteAppSearch.png" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="232" alt=""></p>
+</li>
+</ol>
+<br>
+<ol start="3" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="236">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="236">To Delete the Published app, click the <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="236">Delete</code> button.
+<ul sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="237">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="237">This may take a little while to process.</li>
+</ul>
+</li>
+</ol>
+<br>
+<ol start="4" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="241">
+<li sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="241"><p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="241">Or alternatively, click the application to view the screen as shown below. Click the <code sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="241">Delete</code> button to Delete the app.</p>
+<p sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="243"><img src="resources/2.19DeleteInside.png" sourcefile="articles/create-application-using-appmanager.md" sourcestartlinenumber="243" alt=""></p>
+</li>
+</ol>
+<br>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/emgage/emgage-docs/blob/master/articles/create-application-using-appmanager.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            © Copyright Emgage Inc.
+            
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Understanding App Hierarchy and Interitence | Emgage </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Understanding App Hierarchy and Interitence | Emgage ">
+    <meta name="generator" content="docfx 2.59.4.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    <meta property="docfx:rel" content="../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src=".././articles/images/logo.png" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list">Search Results for <span></span></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination" data-first="First" data-prev="Previous" data-next="Next" data-last="Last"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="understanding-app-hierarchy-and-interitence" sourcefile="articles/apphierarchy.md" sourcestartlinenumber="1">Understanding App Hierarchy and Interitence</h1>
+
+<h2 id="introduction-" sourcefile="articles/apphierarchy.md" sourcestartlinenumber="3">Introduction <a id="introduction"></a></h2>
+<p sourcefile="articles/apphierarchy.md" sourcestartlinenumber="5">⭐ Whenever you create an app in <strong sourcefile="articles/apphierarchy.md" sourcestartlinenumber="5">Emgage</strong>, it is always associated to a parent.</p>
+<p sourcefile="articles/apphierarchy.md" sourcestartlinenumber="7">⭐ Under every new child app, further child apps can be created. This hierarchical structure can be extended to any level as per requirement.</p>
+<p sourcefile="articles/apphierarchy.md" sourcestartlinenumber="9">⭐ This hierarchical management of apps offers superior flexibility and gives effective control over the app resources.</p>
+<p sourcefile="articles/apphierarchy.md" sourcestartlinenumber="11">⭐ In this page, you will get to know how these hierarchies work and how to benefit from them.</p>
+<br>
+<h2 id="app-hierarchy-" sourcefile="articles/apphierarchy.md" sourcestartlinenumber="18">App Hierarchy <a id="apphierarchy"></a></h2>
+<br>
+<ol sourcefile="articles/apphierarchy.md" sourcestartlinenumber="21">
+<li sourcefile="articles/apphierarchy.md" sourcestartlinenumber="21"><p sourcefile="articles/apphierarchy.md" sourcestartlinenumber="21">From the Dashboard, navigate to;  <code sourcefile="articles/apphierarchy.md" sourcestartlinenumber="21">Left Nav Bar</code>  and click the <code sourcefile="articles/apphierarchy.md" sourcestartlinenumber="21">Select App</code> button. You will see a screen as shown below.</p>
+<p sourcefile="articles/apphierarchy.md" sourcestartlinenumber="23"><img src="resources/2.5New.png" sourcefile="articles/apphierarchy.md" sourcestartlinenumber="23" alt=""></p>
+</li>
+</ol>
+<br>
+<ol start="2" sourcefile="articles/apphierarchy.md" sourcestartlinenumber="27">
+<li sourcefile="articles/apphierarchy.md" sourcestartlinenumber="27">At the root, there is a system defined app called <strong sourcefile="articles/apphierarchy.md" sourcestartlinenumber="27">Global</strong>.
+<ul sourcefile="articles/apphierarchy.md" sourcestartlinenumber="28">
+<li sourcefile="articles/apphierarchy.md" sourcestartlinenumber="28"><strong sourcefile="articles/apphierarchy.md" sourcestartlinenumber="28">Global</strong> app is the parent of all apps created in <strong sourcefile="articles/apphierarchy.md" sourcestartlinenumber="28">Emgage</strong></li>
+<li sourcefile="articles/apphierarchy.md" sourcestartlinenumber="29">All child apps inherit properties, resources or controls defined in the <strong sourcefile="articles/apphierarchy.md" sourcestartlinenumber="29">Global</strong> app.</li>
+<li sourcefile="articles/apphierarchy.md" sourcestartlinenumber="30">If you want to create an app that inherits resources defined in the Global app only, then choose the <strong sourcefile="articles/apphierarchy.md" sourcestartlinenumber="30">Global</strong> app and refer to <a href="1.createnewchildapp.md" sourcefile="articles/apphierarchy.md" sourcestartlinenumber="30"> Create a New Child App Guide</a> for further details.</li>
+</ul>
+</li>
+</ol>
+<br>
+<ol start="3" sourcefile="articles/apphierarchy.md" sourcestartlinenumber="34">
+<li sourcefile="articles/apphierarchy.md" sourcestartlinenumber="34"><p sourcefile="articles/apphierarchy.md" sourcestartlinenumber="34">Endless hierarchy levels can be created in <strong sourcefile="articles/apphierarchy.md" sourcestartlinenumber="34">Emgage</strong>.</p>
+<ul sourcefile="articles/apphierarchy.md" sourcestartlinenumber="36">
+<li sourcefile="articles/apphierarchy.md" sourcestartlinenumber="36">Refer to the above screenshot, The app <strong sourcefile="articles/apphierarchy.md" sourcestartlinenumber="36">Project- Chip Design</strong> is created under the parent named <strong sourcefile="articles/apphierarchy.md" sourcestartlinenumber="36">Customer - Intel</strong>, which is created under the parent <strong sourcefile="articles/apphierarchy.md" sourcestartlinenumber="36">Cybersecurity Provider</strong>.</li>
+<li sourcefile="articles/apphierarchy.md" sourcestartlinenumber="37">Note that the parent application named <strong sourcefile="articles/apphierarchy.md" sourcestartlinenumber="37">Cybersecurity Provider</strong> lies under the source app named <strong sourcefile="articles/apphierarchy.md" sourcestartlinenumber="37">Global</strong>.</li>
+</ul>
+</li>
+</ol>
+<br>
+<ol start="4" sourcefile="articles/apphierarchy.md" sourcestartlinenumber="41">
+<li sourcefile="articles/apphierarchy.md" sourcestartlinenumber="41">No app can be created above <strong sourcefile="articles/apphierarchy.md" sourcestartlinenumber="41">Global</strong>. <br></li>
+</ol>
+<h2 id="inheritence-in-hierarchy-" sourcefile="articles/apphierarchy.md" sourcestartlinenumber="44">Inheritence in Hierarchy <a id="InheritenceinHierarchy"></a></h2>
+<br>
+<ol sourcefile="articles/apphierarchy.md" sourcestartlinenumber="47">
+<li sourcefile="articles/apphierarchy.md" sourcestartlinenumber="47"><p sourcefile="articles/apphierarchy.md" sourcestartlinenumber="47">In simple terms, Inheritance means reception of resources or properties from parent to the child.</p>
+</li>
+<li sourcefile="articles/apphierarchy.md" sourcestartlinenumber="49"><p sourcefile="articles/apphierarchy.md" sourcestartlinenumber="49">When a child app is created in <strong sourcefile="articles/apphierarchy.md" sourcestartlinenumber="49"><strong sourcefile="articles/apphierarchy.md" sourcestartlinenumber="49">Emgage</strong></strong>, all properties, resources or controls of the parent are automatically available in the child app.</p>
+</li>
+<li sourcefile="articles/apphierarchy.md" sourcestartlinenumber="51"><p sourcefile="articles/apphierarchy.md" sourcestartlinenumber="51">New properties, resources or controls created in the child app are available to the child app only and are not reflected in any other app or its parent app.</p>
+<p sourcefile="articles/apphierarchy.md" sourcestartlinenumber="53"><img src="resources/2.5New.png" sourcefile="articles/apphierarchy.md" sourcestartlinenumber="53" alt=""></p>
+</li>
+<li sourcefile="articles/apphierarchy.md" sourcestartlinenumber="55"><p sourcefile="articles/apphierarchy.md" sourcestartlinenumber="55">Refer to the Hierarchy Levels in the figure above, the Inheritance of app resources for the <strong sourcefile="articles/apphierarchy.md" sourcestartlinenumber="55">Project- Chip Design</strong> are;</p>
+<ul sourcefile="articles/apphierarchy.md" sourcestartlinenumber="56">
+<li sourcefile="articles/apphierarchy.md" sourcestartlinenumber="56"><p sourcefile="articles/apphierarchy.md" sourcestartlinenumber="56">All the resources available in the app named <strong sourcefile="articles/apphierarchy.md" sourcestartlinenumber="56">Customer - Intel</strong>.</p>
+</li>
+<li sourcefile="articles/apphierarchy.md" sourcestartlinenumber="58"><p sourcefile="articles/apphierarchy.md" sourcestartlinenumber="58">All the resources available in the app named <strong sourcefile="articles/apphierarchy.md" sourcestartlinenumber="58">Cybersecurity Provider</strong>.</p>
+</li>
+<li sourcefile="articles/apphierarchy.md" sourcestartlinenumber="60"><p sourcefile="articles/apphierarchy.md" sourcestartlinenumber="60">All the resources available in the app named <strong sourcefile="articles/apphierarchy.md" sourcestartlinenumber="60">Global</strong>.</p>
+</li>
+</ul>
+</li>
+<li sourcefile="articles/apphierarchy.md" sourcestartlinenumber="62"><p sourcefile="articles/apphierarchy.md" sourcestartlinenumber="62">The Inheritance of app resources for the <strong sourcefile="articles/apphierarchy.md" sourcestartlinenumber="62">Customer - Intel</strong> are;</p>
+<ul sourcefile="articles/apphierarchy.md" sourcestartlinenumber="64">
+<li sourcefile="articles/apphierarchy.md" sourcestartlinenumber="64"><p sourcefile="articles/apphierarchy.md" sourcestartlinenumber="64">All the resources available in the app named <strong sourcefile="articles/apphierarchy.md" sourcestartlinenumber="64">Cybersecurity Provider</strong>.</p>
+</li>
+<li sourcefile="articles/apphierarchy.md" sourcestartlinenumber="66"><p sourcefile="articles/apphierarchy.md" sourcestartlinenumber="66">All the resources available in the app named <strong sourcefile="articles/apphierarchy.md" sourcestartlinenumber="66">Global</strong>.</p>
+</li>
+</ul>
+</li>
+<li sourcefile="articles/apphierarchy.md" sourcestartlinenumber="69"><p sourcefile="articles/apphierarchy.md" sourcestartlinenumber="69"><strong sourcefile="articles/apphierarchy.md" sourcestartlinenumber="69">Global</strong> is the parent of all apps.</p>
+</li>
+</ol>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/emgage/emgage-docs/blob/master/articles/apphierarchy.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            © Copyright Emgage Inc.
+            
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>
