@@ -19,7 +19,6 @@ Whether you are an entrepreneur running a software company or have a great idea 
 ## Read More
 
 ##### [🔖 Emgage Documentation](articles/articles-introduction.md)<BR>
-##### [🔖 Emgage API Documentation](api/index.md)<BR>
 ##### [🔖 Glossary of Terms](articles/glossary.md) <BR>
 
 

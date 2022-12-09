@@ -10,7 +10,7 @@ In the **Emgage** platform, every app is associated to a parent. Under every new
 ## Application Hierarchy <a id="apphierarchy"></a>
 - From the Dashboard, navigate to;  **`Left Nav Bar`**  and click the **`Select App`** button. You will see a screen as shown below.
 
-    ![](resources/2.5New.png)
+    ![](resources/1-nav-bar.png)
 
 - At the root, you will see a system defined app called **Global**.
     - **Global** app is the parent of all apps created in **Emgage**.
