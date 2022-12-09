@@ -54,12 +54,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "articles/application-hierarchy.md",
       "output": {
         ".html": {
           "relative_path": "articles/application-hierarchy.html",
-          "hash": "xMm7fKL354ODfdLKyw0nrBef8Rk5+yBSnxTPy+X4Htg="
+          "hash": "K53DJbkTc6zcBvDxHRHCfhKNvxLrWNtU3oKuSRbxGUc="
         }
       },
       "is_incremental": false,
@@ -71,7 +74,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/articles-introduction.html",
-          "hash": "J8xqQ+4DjYXDihViWphe/YoD64HYUW4IfwU9C7MpT88="
+          "hash": "MwZ3vM/eBqZY2VPgBoM8U6GiL5FD34X/rP0NhcYMGFk="
         }
       },
       "is_incremental": false,
@@ -95,19 +98,22 @@
       "output": {
         ".html": {
           "relative_path": "articles/create-application-using-appmanager.html",
-          "hash": "KMVNSUWbC39mR682Qyxt5x2twWqz8yVPIQ85D74KdA0="
+          "hash": "P1px8mraPSvJ/4oZSh2Gnvoyuwj8yhMYtGyBRVng0l4="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "articles/create-application-using-hyperconsole.md",
       "output": {
         ".html": {
           "relative_path": "articles/create-application-using-hyperconsole.html",
-          "hash": "KPqfdH/Xl0NcDRgHhAgfJ4Jtp2LDYKRUHe1e5xEs2Ms="
+          "hash": "vv5IwXMVjdlIPj/bS0KUhhiIsVZCHVnhSEGHYByUsrU="
         }
       },
       "is_incremental": false,
@@ -119,7 +125,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/glossary.html",
-          "hash": "zf+ghQp7g6Os2OUH0NgoJoFcMjwq4SCMhdpLSEvkWpc="
+          "hash": "lowajg+qUdmlrTXbObFO67fU+RZOVAVm3YDEKd0LI80="
         }
       },
       "is_incremental": false,
@@ -138,10 +144,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "articles/resources/1.1login.png",
+      "source_relative_path": "articles/resources/1-nav-bar.png",
       "output": {
         "resource": {
-          "relative_path": "articles/resources/1.1login.png"
+          "relative_path": "articles/resources/1-nav-bar.png"
         }
       },
       "is_incremental": false,
@@ -149,10 +155,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "articles/resources/1.2login.png",
+      "source_relative_path": "articles/resources/1.1-new-frame.png",
       "output": {
         "resource": {
-          "relative_path": "articles/resources/1.2login.png"
+          "relative_path": "articles/resources/1.1-new-frame.png"
         }
       },
       "is_incremental": false,
@@ -160,384 +166,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "articles/resources/1.4login.png",
+      "source_relative_path": "articles/resources/1.2-new-advanced.png",
       "output": {
         "resource": {
-          "relative_path": "articles/resources/1.4login.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/1.login.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/1.login.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/1.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/1.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.10-FindAndPublish.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.10-FindAndPublish.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.11-PublishDraftApp.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.11-PublishDraftApp.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.12-DeleteAnApp - Copy.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.12-DeleteAnApp - Copy.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.12-DeleteAnApp.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.12-DeleteAnApp.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.13PublishDraft.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.13PublishDraft.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.13PublishDraftClear.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.13PublishDraftClear.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.14DiscardDraft.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.14DiscardDraft.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.15DiscardDraftInside.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.15DiscardDraftInside.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.16DEleteAppClear.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.16DEleteAppClear.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.16DeleteAppSearch.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.16DeleteAppSearch.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.19DeleteInside.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.19DeleteInside.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.19PUblishInside.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.19PUblishInside.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.1Dashboard-Clear.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.1Dashboard-Clear.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.1Dashboard-Search.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.1Dashboard-Search.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.1New.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.1New.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.2New-Publish.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.2New-Publish.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.2New.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.2New.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.3New.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.3New.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.5New.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.5New.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.6New.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.6New.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.7New.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.7New.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.8New.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.8New.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.9-Launch.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.9-Launch.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/2.Dashboard.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/2.Dashboard.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/3.3Editsettings.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/3.3Editsettings.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/3.Hyperconsole-New.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/3.Hyperconsole-New.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/4.Search-clear.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/4.Search-clear.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/4.Search.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/4.Search.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/Screenshot 2022-09-22 190428.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/Screenshot 2022-09-22 190428.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/Screenshot 2022-09-22 190721.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/Screenshot 2022-09-22 190721.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/emgage-logo-large-transparent-2.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/emgage-logo-large-transparent-2.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/resources/emgage-squarelogo-1469225763276.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/resources/emgage-squarelogo-1469225763276.png"
+          "relative_path": "articles/resources/1.2-new-advanced.png"
         }
       },
       "is_incremental": false,
