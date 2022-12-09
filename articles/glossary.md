@@ -1,4 +1,5 @@
 # Glossary
+---
 
 ## Terms and Explanation
 
