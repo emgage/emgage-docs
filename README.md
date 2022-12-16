@@ -22,8 +22,9 @@ docfx emgage-docs\docfx.json --serve
 ```
 To access the local document changes, Open browser with http://localhost:8080/
 
-# Publish the document to [docs.emgage.com](https://docs.emgage.com)
-Please execute the release [Argocd - emgage-docs](https://dev.azure.com/ateraplat/Emgage%20Platform/_release?_a=releases&view=mine&definitionId=53)
+# Publish the document to [learn.emgage.com](https://learn.emgage.com)
+[Optional] Please execute the release [Argocd - emgage-docs](https://dev.azure.com/ateraplat/Emgage%20Platform/_release?_a=releases&view=mine&definitionId=53)
+Now this deployment is auto triggered.
 
 # Docfx documentation 
 Please refere the official documentation of [docfx tool](https://dotnet.github.io/docfx/tutorial/intro_toc.html) 
